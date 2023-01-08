@@ -54,3 +54,6 @@ python update-ecs.py --cluster=production-cluster --service=production-service
 
 terraform destroy
 
+Result vy ALB :
+![The install worked successfully! Congratulations! - Brave 1_8_2023 5_20_24 PM](https://user-images.githubusercontent.com/106534507/211194626-fbe790fe-f4de-4f27-9357-1adf51cb80db.png)
+
